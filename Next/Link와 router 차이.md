@@ -13,6 +13,8 @@ replace가 존재한다면 browser history에 현재 기록상태를 대체
 #### prefetch
 prefetch props가 존재한다면 href주소를 미리 읽어와 해당 페이지의 리소스들을 미리 받음
 
+<hr>
+
 ### useRouter
 useRouter는 next.js에서 함수형식으로 routing을 해주는 라이브러리
 - router.push(href) : href로 탐색을 실행하고, browser history에 쌓음
